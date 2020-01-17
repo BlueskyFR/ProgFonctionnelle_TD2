@@ -18,7 +18,7 @@ Le but de ce TD est d'implémenter quelque methodes
 * Une qui aplatit une liste
 
 ## Installation
-* Télécharger le [**ZIP**](https://github.com/poussard/ProgFonctionnelle_TD2/archive/master.zip) ou cloner le projet avec la commande  git clone https://github.com/poussard/ProgFonctionnelle_TD2/.git
+* Télécharger le [**ZIP**](https://github.com/poussard/ProgFonctionnelle_TD2/archive/master.zip) ou cloner le projet avec la commande  git clone https://github.com/poussard/ProgFonctionnelle_TD2.git
 * Décompresser le
 * Importer le comme 'existing Project' dans eclipse ( File --> import --> General --> existing projects into workspace)
 * Pour lancer les tests unitaire du projet, cliquer droit sur le fichier de tests  ' ( Run As --> Scala Junit Test)
